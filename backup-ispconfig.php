@@ -16,10 +16,10 @@
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-		Author			: RATEFIARISON Aina Manoa
-									manoaratefy@hostibox.com
-									https://manoaratefy.hostibox.com
-									Version 1.0
+		Author : RATEFIARISON Aina Manoa
+             manoaratefy@hostibox.com
+             https://manoaratefy.hostibox.com
+             Version 1.0
 
     Original author: contact@dotmana.com
 
@@ -110,6 +110,5 @@ while ($row = $db_list->fetch())
 }
 
 echo "\nFinish backup at ".date('d/m/Y H:i:s');
-
 
 ?>
