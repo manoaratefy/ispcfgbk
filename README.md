@@ -10,6 +10,10 @@ After that, create the backup folder:
 
 mkdir /home/backup
 
+You need also to make backup-ispconfig.php executable :
+
+chmod +x backup-ispconfig.php
+
 And finally, create a cron job to automate backup:
 
 crontab -e
